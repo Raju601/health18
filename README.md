@@ -1,11 +1,12 @@
-# ✨  health18 ✨
+# ✨ Spasol ✨
 
 This is a web based application developed for health related based website in india
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* -
+*Project Link* -https://raju601.github.io/health18/
+
 *project demo video link* - 
 
 ## Azure technologies used for Project
@@ -33,7 +34,7 @@ This is a web based application developed for health related based website in in
 
 
 
-### Services -
+### Treatments -
 
 
 
